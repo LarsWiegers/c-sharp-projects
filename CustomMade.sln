@@ -83,11 +83,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionHandshaking", "RecursionHandshaking\RecursionHandshaking.csproj", "{8A8250E7-23E6-445E-889A-6F854BE664C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dBox", "3dBox\3dBox\3dBox.csproj", "{6F4347E4-D1FC-4FBD-8176-BB6DCD574142}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenTK", "OpenTK", "{E175D02C-00A3-47D3-A4EE-55F7BCD55CA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Clone", "FirstProjectOpenTK\Minecraft Clone.csproj", "{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dBox", "3dBox\3dBox\3dBox.csproj", "{6F4347E4-D1FC-4FBD-8176-BB6DCD574142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft Clone", "Minecraft Clone\Minecraft Clone.csproj", "{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dWorld", "3dWorld\3dWorld.csproj", "{38E7BBF5-FA09-4531-A9FE-85117F14D0F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,6 +177,10 @@ Global
 		{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E7BBF5-FA09-4531-A9FE-85117F14D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E7BBF5-FA09-4531-A9FE-85117F14D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E7BBF5-FA09-4531-A9FE-85117F14D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E7BBF5-FA09-4531-A9FE-85117F14D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,6 +208,7 @@ Global
 		{8A8250E7-23E6-445E-889A-6F854BE664C2} = {1384CE2C-E639-4ABE-B5CB-C5B489895D40}
 		{6F4347E4-D1FC-4FBD-8176-BB6DCD574142} = {E175D02C-00A3-47D3-A4EE-55F7BCD55CA5}
 		{5C84FC50-83BA-4CAA-BA1F-D3DCF73DF721} = {E175D02C-00A3-47D3-A4EE-55F7BCD55CA5}
+		{38E7BBF5-FA09-4531-A9FE-85117F14D0F4} = {E175D02C-00A3-47D3-A4EE-55F7BCD55CA5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC16F786-0C93-48DB-9C10-90521BB8E9FB}
